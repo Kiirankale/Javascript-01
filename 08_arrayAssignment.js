@@ -103,9 +103,6 @@ console.log(sumOfArray);
   console.log(arrayNumber);
 
 
-  
-
-
 
 
  
